@@ -1,0 +1,1 @@
+export { oneSlice } from './oneSlice'
